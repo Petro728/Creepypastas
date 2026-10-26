@@ -1,0 +1,31 @@
+Chapter 0: Before the game (Intro)
+
+Have you ever experienced playing a game you couldn't tell was innocent or suspicious? In my case it was like this:
+
+I had a friend on MSN Messenger who sent me Petro games that are made sometimes in game engines made inside of an IDE, and not only this, but he also sent Petro games that were believed to be made using the Doom engine.
+However, one day, my friend sent me a file named "PETRO_WIN32.zip". I asked him what it was, but he didn't respond. So I ran it through the antivirus scan and it detected nothing, so I extracted it, and it was another Petro game and so I launched the game using Petro.exe.
+
+
+Chapter 1: The suspicion
+
+When I executed the EXE file, the title screen appeared. Now at first glance it looked like another Petro game, but as soon as I hit Enter, the screen turned black and bloody text said "This will be fun." and then the game began with Act 1 of Green Hill Zone and everything was normal, but I saw the detail that completely made me suspicious which was Petro having blood on his torso. I continued playing and then I passed Act 1 of Green Hill Zone.
+
+
+Chapter 2: The virus comes out
+
+Some things started to occur like the zone getting its name changed to "Blood Hill Zone" and the ground being red covered with blood, there were nothing in the zone, just the ground, then after a few more steps, Petro froze, turned around and looked at me and evily smiled, and the game crashed by closing itself and the error box that had the title "ERROR" and the errortext after below the title "Do NOT open the EXE tommorow, or else there will be consequences.", then the popup closed and I tried deleting the EXE, but the running background that is watching my every move wouldn't let me. 
+
+
+Chapter 3: The virus breaks the computer (Outro)
+
+The next day, I executed the file again, but this time, the game window didn't pop up, instead, the error box with the title "Petro.exe" appeared. It was that same person that didn't let me delete the file, and it said "Well, you're back now. I thought you were gonna try to delete me again. Before I do something with your computer, I have one thing to ask you." then the Input box popup appeared wit the question. I was scared because that was my real name and I set it as my username when setting up my Windows 98. So, I typed in "No", but he knew what I was trying to do and told me not to be suspicious, so I had no choice but to type in "Yes". Then the popup appeared saying "I knew it!" and then that thing opened up my run dialog box and typed in "/con/con" which was a crash code for Windows 98 and told me to say goodbye to my PC, and then crashed it by clicking OK and he caused a BSOD, and I thought it would be easy to restore my Windows 98, so I restarted my PC but the BSOD still appeared. It turns out, the game was actually a virus that completely OBLITERATED my computer. I had to reinstall my Windows 98 because of this so-called "game"
+
+Now that I think about it, I think John Teh Husker got hacked, because recognizing him, he would never be forceful and would never do this to me, right?
+
+
+THE END.
+
+Creepypasta written by: Petro (with Windows 98 aesthetic)
+
+Date this was written: October 25th, 2026
+Date in the story: March 14th, 1998
